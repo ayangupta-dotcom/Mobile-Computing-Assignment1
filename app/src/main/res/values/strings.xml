@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">DiaShield</string>
+    <string name="respiratory_rate">Respiratory Rate</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="measure">Measure</string>
+    <string name="continue_text">Continue</string>
+    <string name="upload">Upload</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="rate_symptoms">Rate Your Symptoms</string>
+    <string name="upload_symptoms">Upload Symptoms</string>
+    <string name="back">Back</string>
+    <string name="headache">Headache</string>
+    <string name="fever_or_chills">Fever or Chills</string>
+    <string name="nausea">Nausea</string>
+    <string name="diarrhea">Diarrhea</string>
+    <string name="sore_throat">Sore Throat</string>
+    <string name="muscle_pain">Muscle Pain</string>
+    <string name="cough">Cough</string>
+    <string name="loss_of_smell_or_taste">Loss of Smell or Taste</string>
+    <string name="shortness_of_breath">Shortness of Breath</string>
+    <string name="fatigue">Fatigue</string>
+    <string name="congestion_or_runny_nose">Congestion or Runny Nose</string>
+
+    <string-array name="symptoms">
+        <item>Headache</item>
+        <item>Fever or Chills</item>
+        <item>Nausea</item>
+        <item>Diarrhea</item>
+        <item>Sore Throat</item>
+        <item>Muscle Pain</item>
+        <item>Cough</item>
+        <item>Loss of Smell or Taste</item>
+        <item>Shortness of Breath</item>
+        <item>Fatigue</item>
+        <item>Congestion or Runny Nose</item>
+    </string-array>
+</resources>
